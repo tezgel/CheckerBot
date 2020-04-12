@@ -1,7 +1,7 @@
 # We will represent Kings as capital letters
 # Also, X will always start on bottom, and Circles will always start on top
 
-
+#this is a new change
 class Board:
     def __init__(self):
         self.dimensions = 9
